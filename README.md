@@ -10,4 +10,5 @@ B]Data Preprocessing : Power Query Editor,Extracted Day Name,Month,Year,From the
 C]Data Visualization : Pivot Table & Pivot Chart
 D]Added Slicers for dynamic represntation of data in real time
 
-
+4.Outcome
+This dashboard helps identify top-performing products, best store locations, and sales trends over time. Based on the insights, the next strategy can focus on promoting high-demand items, improving underperforming stores, and planning major sales during peak periods.
