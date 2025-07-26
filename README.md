@@ -6,9 +6,8 @@ To understand and improve sales performance by looking at different products, st
 
 3.Technical Stack
 A]Tools:Excel
-B]Data Preprocessing : Power Query Editor
+B]Data Preprocessing : Power Query Editor,Extracted Day Name,Month,Year,From the Transaction_Date table,Used Custom columns to find out the total_bill
 C]Data Visualization : Pivot Table & Pivot Chart
 D]Added Slicers for dynamic represntation of data in real time
-
 
 
